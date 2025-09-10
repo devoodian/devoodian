@@ -1,6 +1,6 @@
 # About Me
 
-👋 Hi, I’m Mohammad Davoodian (also known as devoodian). I’m a creative Data Analyst with a background in Front-End Development, AI research, and a degree in Computer Engineering. I enjoy turning data into insights that drive better decisions.
+👋 Hi, I’m Mohammad Davoodian (also known as devoodian). I’m a creative Data Analyst with a background in Front-End Development, AI research, and a degree in Computer Engineering.
 
 ### 🛠️ Skills & Tools:
 
